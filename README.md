@@ -4,6 +4,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/hopegipson?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJ7j_-t44D1CETa0pIhOqgQ?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJ7j_-t44D1CETa0pIhOqgQ?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/hope_gipson?style=social)
 
 
 ## I'm a Full-Stack Software Developer with a background in audio engineering
@@ -28,6 +29,9 @@
 </a>
 <a href="https://www.fiverr.com/users/nerdmilkstudios/">
   <img align="left" alt="Hope's Freelance Fiverr" width="40px" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" />
+</a>
+<a href="https://twitter.com/hope_gipson">
+  <img align="left" alt="Hope's Twitter" width="40px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
 </a>
 <br>
 
