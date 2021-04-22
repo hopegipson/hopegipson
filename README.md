@@ -37,7 +37,7 @@
 
 ## Blog Posts:
 
-- [Superhero Battle Simulator CLI](https://hopegipson.github.io/superhero_battle_simulator_cli)
+- [Superhero Battle Simulator CLI](https://thehopegipson.medium.com/dueling-defenders-making-your-own-superhero-battle-cli-tutorial-5850681c1fd9)
 - [Join Tables and Sinatra CRUD](https://hopegipson.github.io/sinatra_crud_application_build_and_learning_more_about_join_tables)
 - [Making Fantasy Football in Rails](https://hopegipson.github.io/fantasy_football_and_rails)
 - [Quizzes in Javascript](https://hopegipson.github.io/breaking_down_the_magic_of_a_hogwarts_quiz)
