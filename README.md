@@ -40,7 +40,7 @@
 - [Superhero Battle Simulator CLI](https://thehopegipson.medium.com/dueling-defenders-making-your-own-superhero-battle-cli-tutorial-5850681c1fd9)
 - [Join Tables and Sinatra CRUD](https://thehopegipson.medium.com/building-sinatra-crud-spooky-sightings-application-and-learning-more-about-join-tables-2d5a968864b4)
 - [Making Fantasy Football in Rails](https://thehopegipson.medium.com/fantasy-football-and-rails-importing-player-information-6a8148df0b82)
-- [Quizzes in Javascript](https://hopegipson.github.io/breaking_down_the_magic_of_a_hogwarts_quiz)
+- [Quizzes in Javascript](https://thehopegipson.medium.com/breaking-down-the-magic-of-a-hogwarts-quiz-javascript-and-rails-bfe521f2b856)
 - [Playback in a React/Redux Spotify Clone](https://thehopegipson.medium.com/creating-spotify-from-scratch-using-redux-an-explanation-of-playback-capability-in-react-redux-7f6653ea2ce8)
 
 
