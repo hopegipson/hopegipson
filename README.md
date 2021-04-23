@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/hope-gipson/">
   <img align="left" alt="Hope's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://hopegipson.github.io/">
+<a href="https://thehopegipson.medium.com/">
   <img align="left" alt="Hope's Blog" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a href="mailto:gipson.hope@gmail.com">
