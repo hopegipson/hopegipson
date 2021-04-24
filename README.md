@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate with anyone on any project, I just love building with other coders!
 - 💬 Ask me about the music industry! I have some pretty crazy stories from 8+ years in the industry.
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I'm a huge NFL fan and I love playing fantasy football with my friends
+- ⚡ Fun fact: I'm a huge NFL fan of the Kansas City Chiefs and I love playing fantasy football with my friends
 
 ## Find Me On:
 
