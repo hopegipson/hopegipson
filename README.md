@@ -44,7 +44,7 @@
 - [Playback in a React/Redux Spotify Clone](https://thehopegipson.medium.com/creating-spotify-from-scratch-using-redux-an-explanation-of-playback-capability-in-react-redux-7f6653ea2ce8)
 - [How to Properly Work With International Clients (For Freelancers)](https://thehopegipson.medium.com/how-to-properly-work-with-international-clients-for-freelancers-4fc138e1c2c3)
 
-## Blogs I Write For:
+## Publications I Write For:
 
 - [Javascript In Plain English](https://javascript.plainenglish.io/)
 - [Geek Culture](https://medium.com/geekculture)
