@@ -9,7 +9,7 @@
 
 ## I'm a Full-Stack Software Developer with a background in audio engineering
 
-- 🔭 I’m currently working on developing a Spotify clone with a visualizer component that analyzes waveforms.
+- 🔭 I’m currently working on developing a Spotify clone with a visualizer component that analyzes waveforms, and a way to transfer playlists between streaming services.
 - 🌱 I’m a bootcamp graduate from Flatiron school and I have a B.S. in Audio Engineering from Belmont University
 - 👯 I’m looking to collaborate with anyone on any project, I just love building with other coders!
 - 💬 Ask me about the music industry! I have some pretty crazy stories from 8+ years in the industry.
