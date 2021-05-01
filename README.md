@@ -43,6 +43,7 @@
 - [Quizzes in Javascript](https://thehopegipson.medium.com/breaking-down-the-magic-of-a-hogwarts-quiz-javascript-and-rails-bfe521f2b856)
 - [Playback in a React/Redux Spotify Clone](https://thehopegipson.medium.com/creating-spotify-from-scratch-using-redux-an-explanation-of-playback-capability-in-react-redux-7f6653ea2ce8)
 - [How to Properly Work With International Clients (For Freelancers)](https://thehopegipson.medium.com/how-to-properly-work-with-international-clients-for-freelancers-4fc138e1c2c3)
+- [Citi Developer Panel Recap](https://thehopegipson.medium.com/attending-the-citi-developers-panel-4c5fbcf0f576)
 
 ## Publications I Write For:
 
