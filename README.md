@@ -25,7 +25,7 @@
   <img align="left" alt="Hope's Blog" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a href="mailto:gipson.hope@gmail.com">
-  <img align="left" alt="Hope's Gmail" width="40px" src="https://image.flaticon.com/icons/png/512/281/281769.png" />
+  <img align="left" alt="Hope's Gmail" width="40px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 <a href="https://www.fiverr.com/users/nerdmilkstudios/">
   <img align="left" alt="Hope's Freelance Fiverr" width="40px" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" />
@@ -34,7 +34,9 @@
   <img align="left" alt="Hope's Twitter" width="40px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
 </a>
 <br>
+<br>
 
+##
 ## Blog Posts:
 
 - [Superhero Battle Simulator CLI](https://thehopegipson.medium.com/dueling-defenders-making-your-own-superhero-battle-cli-tutorial-5850681c1fd9)
