@@ -10,16 +10,15 @@
 ## I'm a Full-Stack Software Developer with a background in audio engineering
 
 - 🔭 I’m currently working on developing a Spotify clone with a visualizer component that analyzes waveforms, and a way to transfer playlists between streaming services.
-- 🌱 I’m a bootcamp graduate from Flatiron school and I have a B.S. in Audio Engineering from Belmont University
+- 🌱 I’m a bootcamp graduate from Flatiron school and I have a B.S. in Engineering from Belmont University
 - 👯 I’m looking to collaborate with anyone on any project, I just love building with other coders!
 - 💬 Ask me about the music industry! I have some pretty crazy stories from 8+ years in the industry.
-- 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm a huge NFL fan of the Kansas City Chiefs and I love playing fantasy football with my friends!
 
 ## Find Me On:
 
 <a href="https://www.linkedin.com/in/hope-gipson/">
-  <img align="left" alt="Hope's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Hope's LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" />
 </a>
 <a href="https://thehopegipson.medium.com/">
   <img align="left" alt="Hope's Blog" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
