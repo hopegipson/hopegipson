@@ -26,9 +26,6 @@
 <a href="mailto:gipson.hope@gmail.com">
   <img align="left" alt="Hope's Gmail" width="40px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
-<a href="https://www.fiverr.com/users/nerdmilkstudios/">
-  <img align="left" alt="Hope's Freelance Fiverr" width="40px" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" />
-</a>
 <a href="https://twitter.com/hope_gipson">
   <img align="left" alt="Hope's Twitter" width="40px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
 </a>
