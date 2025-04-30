@@ -42,12 +42,3 @@
 - [Geek Culture](https://medium.com/geekculture)
 
 
-
-
-## My Github Stats:
-
-![Hope's GitHub stats](https://github-readme-stats.vercel.app/api?username=hopegipson&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hopegipson&layout=compact&theme=tokyonight)](https://github.com/hopegipson/github-readme-stats)
-
-
-
-
